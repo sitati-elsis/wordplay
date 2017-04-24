@@ -1,3 +1,5 @@
+import {Bear} from './encouter.js';
+
 export class Environment {
 
     constructor(name) {
